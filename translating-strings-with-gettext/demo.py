@@ -3,11 +3,11 @@
 # ./demo
 # ./demo/demo.py
 # ./demo/locales/en/LC_MESSAGES/demo.po <-- The variables in this file are created by yourself or via a command.
-# ./demo/locales/en/LC_MESSAGES/demo.mo <-- Created after configuring the .po file with a command* via the terminal!
+# ./demo/locales/en/LC_MESSAGES/demo.mo <-- Must be created/updated with a command* via the terminal after each change to the .po file!
 # ./demo/locales/de/LC_MESSAGES/demo.po <-- The variables in this file are created by yourself or via a command.
-# ./demo/locales/de/LC_MESSAGES/demo.mo <-- Created after configuring the .po file with a command* via the terminal!
+# ./demo/locales/de/LC_MESSAGES/demo.mo <-- Must be created/updated with a command* via the terminal after each change to the .po file!
 # ./demo/locales/fr/LC_MESSAGES/demo.po <-- The variables in this file are created by yourself or via a command.
-# ./demo/locales/fr/LC_MESSAGES/demo.mo <-- Created after configuring the .po file with a command* via the terminal! 
+# ./demo/locales/fr/LC_MESSAGES/demo.mo <-- Must be created/updated with a command* via the terminal after each change to the .po file!
 
 # ------------------------------------------ #
 # For example ./demo/locales/en/LC_MESSAGES/demo.po:
